@@ -6,7 +6,7 @@ Hands-on labs for SC-200 certification focusing on threat detection, investigati
 -SC-200: Microsoft Certified - Security Operations Analyst Associate
 - SC-900: Microsoft Certified - Security, Compliance, and Identity Fundamentals**
 
-##Labs Covered
+## Labs Covered
 - Microsoft Sentinel - SIEM configuration, Data Connectors, Analytics Rules, Workbooks
 - Microsoft Defender for Endpoint- Alert investigation, Attack surface
 - Microsoft Defender for Cloud- Secure Score, Regulatory Compliance
